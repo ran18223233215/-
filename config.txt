@@ -11,7 +11,7 @@
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "5g1UEsLLTPpRaovoWJsOS0n1wwp1p7UR5sdKyG5VO-8",
+"weather_key": "24cd611e90f74d6cb4cb95b9c8495f1d",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "石柱县",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
